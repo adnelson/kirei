@@ -18,7 +18,7 @@ main = getTyped
 
 ```
 
-There's no good translation of this into an imperative language. You might think it could be something like this:
+There's no straightforward translation of this into an imperative language. You might think it could be something like this:
 
 ```python
 def getTyped():
